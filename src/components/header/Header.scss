@@ -1,0 +1,103 @@
+.header {
+   max-width: 1015px;
+   height: 82px;
+   display: flex;
+   align-items:center;
+   &__logo{
+      font-family: Raleway;
+      font-size: 37px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 43px;
+      letter-spacing: 0em;
+      text-align: left;
+      margin-left: 50px;
+
+   }
+   &__address{
+      height: 20px;
+      width: 164px;
+      margin-left: 25px;
+      
+      display: flex;
+      
+      &-icon{
+         width: 20px;
+         height: 20px;
+         background-image: url("Pin.svg");
+         background-size: cover;
+      }
+      &-text{
+         margin-left: 8px;
+         font-family: Raleway;
+         font-size: 14px;
+         font-style: normal;
+         font-weight: 400;
+         line-height: 20px;
+         letter-spacing: 0px;
+         text-align: left;
+
+      }
+
+   }
+   &__send{
+      height: 50px;
+      width: 468px;
+      left: 0px;
+      top: 0px;
+      border-radius: 36px;
+      border: 1px solid #F0F4FB;
+      display: flex;
+      justify-content:space-between;
+      align-items: center;
+      p{
+         margin-left: 20px;
+      }
+      &-frame{
+         height: 42px;
+         width: 94px;
+         background: #F0F4FB;
+         border-radius: 41px;
+         margin-right: 4px;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         
+      }
+      &-img{
+         height: 20px;
+         width: 20px;
+         background-image: url("Frame 1349.svg");
+         background-size: cover;
+      }
+     
+   }
+   &__basket {
+      width: 50px;
+      height: 50px;
+      margin-left: 20px;
+      background: #FFFFFF;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid #727280;
+      box-sizing: border-box;
+      border-radius: 50%;
+      &-img{
+         height: 17px;
+         width: 18px;
+         background-image: url("Group 2.svg");
+         background-size: cover;
+      }
+   }
+   &__avatar{
+      
+      width: 50px;
+      height: 50px;
+      margin-left: 20px;
+      border-radius: 50%;
+      background-image: url("avatar.png");
+      background-size: cover;
+     
+   }
+}
