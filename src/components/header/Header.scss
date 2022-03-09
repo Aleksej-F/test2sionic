@@ -1,8 +1,10 @@
 .header {
+   grid-area: header;
    max-width: 1015px;
    height: 82px;
    display: flex;
    align-items:center;
+  
    &__logo{
       font-family: Raleway;
       font-size: 37px;
@@ -83,11 +85,28 @@
       border: 1px solid #727280;
       box-sizing: border-box;
       border-radius: 50%;
+      position: relative;
       &-img{
          height: 17px;
          width: 18px;
          background-image: url("Group 2.svg");
          background-size: cover;
+      }
+      &-count{
+         position: absolute;
+         width: 23px;
+         height: 20px;
+         right: -9px;
+         top: -1px;
+         color: #2967FF;
+         font-family: Raleway;
+         font-style: normal;
+         font-weight: 600;
+         font-size: 14px;
+         line-height: 140%;
+         text-align: center;
+         font-feature-settings: 'pnum';
+         background-color: #FFFFFF;
       }
    }
    &__avatar{

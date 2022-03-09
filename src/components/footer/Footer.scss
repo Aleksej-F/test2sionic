@@ -1,0 +1,63 @@
+.footer{
+   width: 100%;
+   height: 215px;
+   grid-area: footer;
+   background: #F8F8F8;
+   &__container{
+      margin-top: 23px;
+      display: flex;
+      justify-content: space-between;
+      &-blok{
+         display: flex;
+         margin-right: 123px;
+         font-family: Raleway;
+         font-style: normal;
+         font-weight: normal;
+         font-size: 16px;
+         line-height: 140%;
+         font-feature-settings: 'pnum' on, 'lnum' on;
+         color: #2D2D2F;
+         padding-top: 23px;
+      }
+   }
+   &__logo{
+      font-family: Raleway;
+      font-size: 37px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 43px;
+      letter-spacing: 0em;
+      text-align: left;
+      margin-left: 50px;
+      
+   }
+   &__messenger{
+      margin-right: 31px; 
+      &-container{
+         margin-top: 10px;
+         display: flex;
+         width: 116px;
+         justify-content: space-between;
+      }
+      
+      &-facebook{
+         width: 28px;
+         height: 28px;
+         background-image: url("Facebook.svg");
+         background-size: cover;
+      }
+      &-vk{
+         width: 28px;
+         height: 28px;
+         background-image: url("Vk.svg");
+         background-size: cover;
+      }
+      &-inst{
+         width: 28px;
+         height: 28px;
+         background-image: url("Inst.svg");
+         background-size: cover;
+      }
+   }
+
+}

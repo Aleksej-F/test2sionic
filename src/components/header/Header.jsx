@@ -23,6 +23,7 @@ export const Header = () => {
          </div>
          <div className='header__basket'>
             <div className='header__basket-img'></div>
+            <div className='header__basket-count'>10+</div>
          </div>
          <div className='header__avatar'></div>
       </header>

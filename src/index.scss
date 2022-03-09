@@ -13,7 +13,13 @@ body {
  }
 
  .App{
+   display: grid;
    max-width: 1366px;
    margin: 0 auto;
    background-color: #FFFFFF;
+   grid-template-areas: "header sidebar"  
+                       "content sidebar"  
+                       "footer footer";
+   grid-template-columns:  1fr 351px;  
+    grid-template-rows: 82px 1fr 215px; 
  }
