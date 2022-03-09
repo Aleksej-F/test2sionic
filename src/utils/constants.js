@@ -1,0 +1,5 @@
+export const HOME_ROUTE = '/'
+export const CATALOG_ROUTE = '/catalog'
+export const BASKET_ROUTE = '/basket'
+export const ORDER_ROUTE = '/order'
+export const DELIVERY_ROUTE = '/delivery'
