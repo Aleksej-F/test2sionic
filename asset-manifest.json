@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test2sionic/static/css/main.2be04962.css",
-    "main.js": "/test2sionic/static/js/main.ce9ccf33.js",
+    "main.css": "/test2sionic/static/css/main.aaecf866.css",
+    "main.js": "/test2sionic/static/js/main.6629bf9a.js",
     "static/media/Image1.png": "/test2sionic/static/media/Image1.7acd009e1552b60bb72b.png",
     "static/media/Image.png": "/test2sionic/static/media/Image.b41dce695f90cbb8f38e.png",
     "static/media/Frame.svg": "/test2sionic/static/media/Frame.c19ac3664deef41d80e4.svg",
@@ -12,11 +12,11 @@
     "static/media/Pin.svg": "/test2sionic/static/media/Pin.fa05d4508ca7df757ace.svg",
     "static/media/Facebook.svg": "/test2sionic/static/media/Facebook.178805c4c66ce8b50e6a.svg",
     "static/media/Frame 1349.svg": "/test2sionic/static/media/Frame 1349.2fd54c2a30f7c29eabe6.svg",
-    "main.2be04962.css.map": "/test2sionic/static/css/main.2be04962.css.map",
-    "main.ce9ccf33.js.map": "/test2sionic/static/js/main.ce9ccf33.js.map"
+    "main.aaecf866.css.map": "/test2sionic/static/css/main.aaecf866.css.map",
+    "main.6629bf9a.js.map": "/test2sionic/static/js/main.6629bf9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2be04962.css",
-    "static/js/main.ce9ccf33.js"
+    "static/css/main.aaecf866.css",
+    "static/js/main.6629bf9a.js"
   ]
 }
