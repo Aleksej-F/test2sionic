@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/test2sionic/static/css/main.aaecf866.css",
-    "main.js": "/test2sionic/static/js/main.6629bf9a.js",
+    "main.css": "/test2sionic/static/css/main.6949f2ef.css",
+    "main.js": "/test2sionic/static/js/main.450fe1ac.js",
     "static/media/Image1.png": "/test2sionic/static/media/Image1.7acd009e1552b60bb72b.png",
+    "static/media/noimage.png": "/test2sionic/static/media/noimage.0336591dd70a5990b239.png",
     "static/media/Image.png": "/test2sionic/static/media/Image.b41dce695f90cbb8f38e.png",
     "static/media/Frame.svg": "/test2sionic/static/media/Frame.c19ac3664deef41d80e4.svg",
     "static/media/Vk.svg": "/test2sionic/static/media/Vk.17c80ac52cbbb872a36b.svg",
     "static/media/Inst.svg": "/test2sionic/static/media/Inst.3160ec926326a19cabeb.svg",
     "static/media/Group 2.svg": "/test2sionic/static/media/Group 2.e1de85b028ffabf7be61.svg",
+    "static/media/delete.svg": "/test2sionic/static/media/delete.e67550974836fe6218e1.svg",
     "index.html": "/test2sionic/index.html",
     "static/media/Pin.svg": "/test2sionic/static/media/Pin.fa05d4508ca7df757ace.svg",
     "static/media/Facebook.svg": "/test2sionic/static/media/Facebook.178805c4c66ce8b50e6a.svg",
     "static/media/Frame 1349.svg": "/test2sionic/static/media/Frame 1349.2fd54c2a30f7c29eabe6.svg",
-    "main.aaecf866.css.map": "/test2sionic/static/css/main.aaecf866.css.map",
-    "main.6629bf9a.js.map": "/test2sionic/static/js/main.6629bf9a.js.map"
+    "main.6949f2ef.css.map": "/test2sionic/static/css/main.6949f2ef.css.map",
+    "main.450fe1ac.js.map": "/test2sionic/static/js/main.450fe1ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.aaecf866.css",
-    "static/js/main.6629bf9a.js"
+    "static/css/main.6949f2ef.css",
+    "static/js/main.450fe1ac.js"
   ]
 }
